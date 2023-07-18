@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    display: flex;
+    height: 80px;
+}
+.top{
+    display: flex;
+}
+
+.list_items ul{
+    display: flex;
+    list-style: none;
+    padding:20px 0px 20px 0px;
+}
+.list_tag{
+    padding: 40px 10px 0px 30px;
+    font-size: 17px;
+}
+.btn button{
+    padding: 20px 40px 20px 40px;
+    background-color: #ffcb0d;
+    border: none;
+    border-radius: 5px;
+}
+.btn{
+    padding: 10px;
+}
+.section_one{
+    padding: 40px 30px 20px 30px;
+    display: flex;
+}
+.banner_one {
+    padding-right: 30px;
+    width: 65%;
+}
+.banner_one img{
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.banner_text_one h1{
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 20px;
+}
+.banner_text_one{
+    width: 35%;
+}
+.more_info{
+    padding: 18px 20px 20px 0px;
+}
+.more_info p{
+    font-size: 17px;
+    font-weight: 500;
+}
+.more_info ul{
+    padding-top: 10px;
+    font-size: 11px;
+    font-weight: 500;
+    list-style: none;
+}
+.QPC{
+    padding: 50PX 20PX 20PX 0PX;
+}
+.QPC button{
+    padding: 15px 40px 15px 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffcb0d;
+}
+.general{
+    display: flex;
+    justify-content: space-between;
+}
+.about{
+    padding-left: 30px;
+}
+.about_text{
+    padding-top: 30px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0px 0px 20px;
+}
+.fb{
+    padding-left: 20px;
+}
+.line{
+    padding-top: 50px;
+}
+.footer_text{
+padding: 40px 20px 0px 40px;
+}
+.footer_text_p1{
+    display: flex;
+}
+.text_p1{
+    padding-left: 30px;
+}
+.footer_text_p2{
+    padding-top: 30px;
+}
+.listings{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
